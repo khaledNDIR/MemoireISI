@@ -1,0 +1,67 @@
+.apropos{
+    border-radius: 10px;
+    height: 300px;
+    z-index: 1;
+    box-shadow: 8px 0px 20px 0px rgb(236, 226, 226);
+    margin-top: -100px;
+}
+
+.apropose{
+    border-radius: 10px;
+    border: solid 1px rgb(168, 166, 166);
+    height: auto;
+    z-index: 1;
+    box-shadow: 8px 0px 20px 0px rgb(236, 226, 226);
+    margin-top: -400px;
+}
+
+ .avis{
+    border-radius: 10px;
+    height: 800px;
+    z-index: 1;
+    box-shadow: 8px 0px 20px 0px rgb(236, 226, 226);
+    margin-top: -100px;
+ }
+
+.commentaire{  
+    width: 500px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+.evaluation{
+    border-radius: 10px;
+    border: solid 1px rgb(168, 166, 166);
+    height: auto;
+    width: 600px;
+    box-shadow: 8px 0px 20px 0px rgb(236, 226, 226);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aproposee{
+    border-radius: 10px;
+    border: solid 1px rgb(168, 166, 166);
+    height: auto;
+    width: 600px;
+    z-index: 1;
+    box-shadow: 8px 0px 20px 0px rgb(236, 226, 226);
+    margin-top: -400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.ssl{
+    z-index: -1;
+}
+
+.in{
+      z-index: 1;
+}
+
+body {
+        src: url("../font/Lato-Regular.eot");
+        src: url("../font/Lato-Regular.eot?#iefix") format("embedded-opentype"), url("../font/Lato-Regular.woff") format("woff"), url("../font/Lato-Regular.ttf") format("truetype");
+        background-color: rgb(240, 249, 255);
+}
